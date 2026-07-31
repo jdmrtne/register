@@ -4,6 +4,7 @@
     "email": "judemrtne@gmail.com"
   },
   "records": {
-    "CNAME": "judemdev.vercel.app"
+    "CNAME": "judemdev.vercel.app",
+    "TXT": "vc-domain-verify=www.jdmrtne.is-a.dev,99af5c0089622e413e2f"
   }
 }
